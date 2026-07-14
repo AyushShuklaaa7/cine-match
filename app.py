@@ -129,4 +129,4 @@ with tab2:
         
         st.markdown("### 🧪 Vector Engine Metadata Soup")
         st.caption("This is the exact token signature analyzed by the NLP model to compute cross-movie similarity structures:")
-        st.info(matched_row['metadata_soup'])"
+        st.info(matched_row['metadata_soup'])
